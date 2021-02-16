@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8849b97.chunk.css",
+    "main.js": "/static/js/main.66afd144.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.5bb70607.js",
+    "static/js/2.f22386c2.chunk.js": "/static/js/2.f22386c2.chunk.js",
+    "static/js/3.66c5962b.chunk.js": "/static/js/3.66c5962b.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.f22386c2.chunk.js.LICENSE.txt": "/static/js/2.f22386c2.chunk.js.LICENSE.txt",
+    "static/media/coding.386ffbe8.png": "/static/media/coding.386ffbe8.png",
+    "static/media/css3.4e67641b.png": "/static/media/css3.4e67641b.png",
+    "static/media/html5.23784160.png": "/static/media/html5.23784160.png",
+    "static/media/javascript.6a93a3be.png": "/static/media/javascript.6a93a3be.png",
+    "static/media/messenger.2acaee81.png": "/static/media/messenger.2acaee81.png",
+    "static/media/nodejs.abfaef34.png": "/static/media/nodejs.abfaef34.png",
+    "static/media/reactjs.6ce24c58.svg": "/static/media/reactjs.6ce24c58.svg",
+    "static/media/tuauthentic.3feb9801.png": "/static/media/tuauthentic.3feb9801.png",
+    "static/media/weather.68dfd54f.png": "/static/media/weather.68dfd54f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bb70607.js",
+    "static/js/2.f22386c2.chunk.js",
+    "static/css/main.d8849b97.chunk.css",
+    "static/js/main.66afd144.chunk.js"
+  ]
+}
